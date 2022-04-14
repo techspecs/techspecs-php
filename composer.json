@@ -7,7 +7,15 @@
         "sdk",
         "api",
         "client",
-        "php"
+        "php",
+        "smartphone specifications",
+        "phone specs",
+        "tablet specifications",
+        "smartwatch specifications",
+        "laptop specifications",
+        "techspecs api",
+        "techspecs sdk",
+        "techspecs php"
     ],
     "license": "MIT",
     "authors": [
