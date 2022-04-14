@@ -1,4 +1,5 @@
-![TechSpecs Logo](https://i.imgur.com/QYvbQpn.png)
+![TechSpecs Logo](https://i.imgur.com/JwSpZO8.jpg)
+![TechSpecs Logo](https://i.imgur.com/JZ3GqAU.jpg)
 
 # Introducing TechSpecs PHP
 
