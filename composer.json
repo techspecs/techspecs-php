@@ -1,7 +1,7 @@
 {
     "name": "techspecs/techspecs-php",
     "type": "library",
-    "description": "TechSpecs SDK: Get The Specs Of Over 19,000 Devices, Without The Hassle",
+    "description": "Get The Standardized Specs Of Over 19,000 Devices including the latest smartphones, tablets and smartwatches, Without The Hassle",
     "keywords" : [
         "techspecs",
         "sdk",
