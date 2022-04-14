@@ -1,0 +1,31 @@
+{
+    "name": "techspecs/techspecs-php",
+    "type": "library",
+    "description": "An implementation of TechSpecs API for PHP.",
+    "keywords" : [
+        "techspecs",
+        "sdk",
+        "api",
+        "client",
+        "php"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kny00",
+            "email": "kny.contact@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TechSpecsSDK\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4",
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5"
+    }
+}
