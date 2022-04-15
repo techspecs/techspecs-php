@@ -192,6 +192,7 @@ $response = $techSpecs->categories('pretty');
 // print the list of all categories
 print($response);
 
+This PHP SDK provides access to the standardized technical specifications of over 19,000 consumer electronics devices, including the latest smartphones, tablets, smartwatches, laptops, and more.
 ```
 
 
